@@ -53,7 +53,7 @@ env:
   #     - buttonless: Title bar, transparent background, but no title bar buttons
   #decorations: full
   # Startup Mode (changes require restart)
-  #
+  
   # Values for `startup_mode`:
   #   - Windowed
   #   - Maximized
