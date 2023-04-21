@@ -1,4 +1,4 @@
-# my-i3-dots
+# Dot files I'm using right now
 
 This repo contains my i3 dotfiles.
 
